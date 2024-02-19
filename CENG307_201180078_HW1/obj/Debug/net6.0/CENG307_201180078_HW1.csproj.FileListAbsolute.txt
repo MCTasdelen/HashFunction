@@ -1,0 +1,15 @@
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\bin\Debug\net6.0\CENG307_201180078_HW1.exe
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\bin\Debug\net6.0\CENG307_201180078_HW1.deps.json
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\bin\Debug\net6.0\CENG307_201180078_HW1.runtimeconfig.json
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\bin\Debug\net6.0\CENG307_201180078_HW1.dll
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\bin\Debug\net6.0\CENG307_201180078_HW1.pdb
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\obj\Debug\net6.0\CENG307_201180078_HW1.csproj.AssemblyReference.cache
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\obj\Debug\net6.0\CENG307_201180078_HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\obj\Debug\net6.0\CENG307_201180078_HW1.AssemblyInfoInputs.cache
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\obj\Debug\net6.0\CENG307_201180078_HW1.AssemblyInfo.cs
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\obj\Debug\net6.0\CENG307_201180078_HW1.csproj.CoreCompileInputs.cache
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\obj\Debug\net6.0\CENG307_201180078_HW1.dll
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\obj\Debug\net6.0\refint\CENG307_201180078_HW1.dll
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\obj\Debug\net6.0\CENG307_201180078_HW1.pdb
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\obj\Debug\net6.0\CENG307_201180078_HW1.genruntimeconfig.cache
+C:\Users\6ncaf\OneDrive\Masaüstü\File Organization\CENG307_201180078_HW1\obj\Debug\net6.0\ref\CENG307_201180078_HW1.dll
